@@ -1,0 +1,5 @@
+# Created at 2024-04-28T08:11:26.261
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Edilson\Programacion\Docker\salud_ver_project\Angular_sprint\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
